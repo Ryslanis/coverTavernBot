@@ -1,0 +1,7 @@
+myenv
+venv
+.env
+debug.log
+error.log
+cert.pem
+private.key
